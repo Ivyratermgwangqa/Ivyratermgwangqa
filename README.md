@@ -1,10 +1,10 @@
 # About Me
 
-Hello! I'm [Your Name], a passionate and aspiring software engineer with a thirst for learning and a love for problem-solving. Here's a bit about me:
+Hello! I'm Lerato Mgwangqa, a passionate and aspiring software engineer with a thirst for learning and a love for problem-solving. Here's a bit about me:
 
 ## Who Am I?
 
-I'm a student at [Your University], where I'm pursuing my [Degree Name]. Additionally, I'm enrolled in the ALX Software Engineering Program, where I'm enhancing my skills and knowledge in the world of software development. My educational journey is just the beginning of my software engineering career.
+I'm a student at Sol Plaatje, where I'm pursuing my BSc Mathematical and Computer Sciences. Additionally, I'm enrolled in the ALX Software Engineering Program, where I'm enhancing my skills and knowledge in the world of software development. My educational journey is just the beginning of my software engineering career.
 
 ## My Skills
 
