@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-  <img src="your-profile-image.jpg" width="200" alt="Your Name">
+  <img src="your-profile-image.jpg" width="200" alt="Lerato Mgwangqa">
 </p>
 
 <p align="center">
