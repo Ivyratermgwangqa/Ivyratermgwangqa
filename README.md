@@ -40,7 +40,7 @@ Feel free to reach out, share your wisdom, or embark on coding adventures togeth
 
 Buckle up for the ride ahead! My compass points to creating innovative projects, adding my notes to the symphony of open source, and refining the skills that make a positive dent in the tech universe. The journey ahead is a rollercoaster of excitement, and I'd love for you to join me.
 
-Thanks for stepping into my coding cosmos!
 "Embrace the challenges, savor the victories, and code a future filled with endless possibilities. Here's to the journey ahead! 🌟 #CodeAndConquer"
 
+Thanks for stepping into my coding cosmos!
 Let's code, learn, and grow together! 🚀
