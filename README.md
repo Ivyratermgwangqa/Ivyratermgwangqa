@@ -1,3 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    p {
+      margin-bottom: 1.5em;
+    }
+
+    img {
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+
+    a {
+      color: #4285f4;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .hidden-link {
+      position: relative;
+      display: inline-block;
+    }
+
+    .hidden-link span {
+      position: absolute;
+      left: -9999px;
+      visibility: hidden;
+    }
+
+    .hidden-link:hover span {
+      left: 0;
+      visibility: visible;
+    }
+  </style>
+</head>
+<body>
+
 <h1 align="center">🌟 About Me</h1>
 
 <p align="center">
@@ -11,7 +68,7 @@
 <h2>👩‍💻 Who Am I?</h2>
 
 <p>
-  I'm currently a student at Sol Plaatje University, pursuing my BSc in Mathematical and Computer Sciences. Additionally, I'm enrolled in the [ALX Software Engineering Program](https://tech.alxafrica.com/software-engineering-programme-johannesburg), where I'm sharpening my skills and knowledge in the dynamic world of software development. This educational journey marks just the beginning of my exciting career in software engineering.
+  I'm currently a student at Sol Plaatje University, pursuing my BSc in Mathematical and Computer Sciences. Additionally, I'm enrolled in the <span class="hidden-link"><a href="https://tech.alxafrica.com/software-engineering-programme-johannesburg">ALX Software Engineering Program</a><span>), where I'm sharpening my skills and knowledge in the dynamic world of software development. This educational journey marks just the beginning of my exciting career in software engineering.
 </p>
 
 <h2>💡 My Skills</h2>
@@ -29,13 +86,13 @@
 <h2>🌐 My GitHub</h2>
 
 <p>
-  Explore some of my coding adventures on my [GitHub profile](https://github.com/Ivyratermgwangqa). While my projects may be in their infancy, I am eagerly anticipating growth and development as a developer.
+  Explore some of my coding adventures on my <span class="hidden-link"><a href="https://github.com/Ivyratermgwangqa">GitHub profile</a></span>). While my projects may be in their infancy, I am eagerly anticipating growth and development as a developer.
 </p>
 
 <h2>📫 Connect with Me</h2>
 
 <p>
-  I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on [LinkedIn](https://www.linkedin.com/in/lerato-mgwangqa-941344238) and let's spark insightful conversations or collaborate on exciting projects!
+  I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on <span class="hidden-link"><a href="https://www.linkedin.com/in/lerato-mgwangqa-941344238">LinkedIn</a></span>) and let's spark insightful conversations or collaborate on exciting projects!
 </p>
 
 <p align="center">
@@ -55,3 +112,6 @@
 <p align="center">
   <strong>Let's code, learn, and grow together! 🚀</strong>
 </p>
+
+</body>
+</html>
