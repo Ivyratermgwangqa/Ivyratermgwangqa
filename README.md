@@ -10,7 +10,7 @@ I'm not just a student at Sol Plaatje University; I'm on a thrilling odyssey pur
 
 ## 💡 **My Skills**
 
-In the intricate dance of programming languages, I've got moves! From the rhythm of **C/C++** to the poetry of **Python**, and orchestrating databases with the finesse of **MySQL**, my skills are tuning up. While my proficiency is taking its baby steps, the commitment to mastery grows with each keystroke.
+In the intricate dance of programming languages, I've got moves! From the rhythm of **![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white)** to the poetry of **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**, and orchestrating databases with the finesse of **![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)**, my skills are tuning up. While my proficiency is taking its baby steps, the commitment to mastery grows with each keystroke.
 
 ## 🚀 **What Drives Me**
 
