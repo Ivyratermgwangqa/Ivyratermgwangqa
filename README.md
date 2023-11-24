@@ -1,6 +1,6 @@
 # 🚀 **Hello World! I'm Lerato Mgwangqa** 🌟
 
-![Profile Image](https://images.unsplash.com/photo-1674707619293-d71bd8d7afa3?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Profile Image](https://images.unsplash.com/photo-1530272423606-173cf40846e3?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Welcome to my coding universe! I'm Lerato Mgwangqa, an enthusiastic software engineer with a relentless passion for learning and a knack for problem-solving. 🌈
 
