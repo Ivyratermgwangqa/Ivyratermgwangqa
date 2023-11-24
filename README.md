@@ -8,11 +8,6 @@ Welcome to my coding universe! I'm Lerato Mgwangqa, an enthusiastic software eng
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap">
 
 <!-- Apply the Poppins font to the body -->
-<style>
-body {
-    font-family: 'Poppins', sans-serif;
-}
-</style>
 
 ## 👩‍💻 **Who Am I?**
 
