@@ -18,11 +18,13 @@ I draw motivation from the boundless possibilities and the transformative power 
 
 ## 🌐 My GitHub
 
-Explore some of my coding adventures on my GitHub profile. ![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+Explore some of my coding adventures on my GitHub profile. 
+![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Connect with Me
 
-I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on LinkedIn. ![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on LinkedIn. 
+![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 
 Feel free to reach out, share your insights, or join me in exploring the wonders of coding!
 
