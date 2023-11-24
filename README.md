@@ -1,8 +1,18 @@
 # 🚀 **Hello World! I'm Lerato Mgwangqa** 🌟
 
-![Profile Image](https://images.unsplash.com/photo-1530272423606-173cf40846e3?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Profile Image](https://images.unsplash.com/photo-1674707619293-d71bd8d7afa3?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Welcome to my coding universe! I'm Lerato Mgwangqa, an enthusiastic software engineer with a relentless passion for learning and a knack for problem-solving. 🌈
+
+<!-- Include the link to the Poppins font -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap">
+
+<!-- Apply the Poppins font to the body -->
+<style>
+body {
+    font-family: 'Poppins', sans-serif;
+}
+</style>
 
 ## 👩‍💻 **Who Am I?**
 
@@ -39,4 +49,4 @@ Thanks for stepping into my coding cosmos!
 
 Let's code, learn, and grow together! 🚀
 
-*Custom Font Used: [Roboto](https://fonts.google.com/specimen/Roboto)*
+*Custom Font Used: [Poppins](https://fonts.google.com/specimen/Poppins)*
