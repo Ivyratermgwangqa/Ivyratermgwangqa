@@ -1,4 +1,3 @@
-User
 <h1 align="center">🌟 About Me</h1>
 
 <p align="center">
@@ -55,4 +54,14 @@ User
 
 <p align="center">
   <strong>Let's code, learn, and grow together! 🚀</strong>
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/lerato-mgwangqa-941344238">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ivyratermgwangqa">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
