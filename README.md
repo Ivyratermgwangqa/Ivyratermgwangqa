@@ -43,5 +43,3 @@ Buckle up for the ride ahead! My compass points to creating innovative projects,
 Thanks for stepping into my coding cosmos!
 
 Let's code, learn, and grow together! 🚀
-
-*Custom Font Used: [Poppins](https://fonts.google.com/specimen/Poppins)*
