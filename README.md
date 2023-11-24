@@ -8,57 +8,45 @@
   Hi there! I'm Lerato Mgwangqa, a passionate and aspiring software engineer with an insatiable curiosity for learning and a deep love for problem-solving.
 </p>
 
-<details>
-  <summary><h2>👩‍💻 Who Am I?</h2></summary>
+<h2>👩‍💻 Who Am I?</h2>
 
-  <p>
-    I'm currently a student at Sol Plaatje University, pursuing my BSc in Mathematical and Computer Sciences. Additionally, I'm enrolled in the [ALX Software Engineering Program](https://tech.alxafrica.com/software-engineering-programme-johannesburg), where I'm sharpening my skills and knowledge in the dynamic world of software development. This educational journey marks just the beginning of my exciting career in software engineering.
-  </p>
-</details>
+<p>
+  I'm currently a student at Sol Plaatje University, pursuing my BSc in Mathematical and Computer Sciences. Additionally, I'm enrolled in the [ALX Software Engineering Program](https://tech.alxafrica.com/software-engineering-programme-johannesburg), where I'm sharpening my skills and knowledge in the dynamic world of software development. This educational journey marks just the beginning of my exciting career in software engineering.
+</p>
 
-<details>
-  <summary><h2>💡 My Skills</h2></summary>
+<h2>💡 My Skills</h2>
 
-  <p>
-    I'm proficient in various programming languages, such as <strong>C/C++, Python</strong>, and adept at database management using <strong>MySQL</strong>. Although my proficiency is in its early stages, my commitment to improvement and mastery grows with each step in my academic journey.
-  </p>
-</details>
+<p>
+  I'm proficient in various programming languages, such as <strong>C/C++, Python</strong>, and adept at database management using <strong>MySQL</strong>. Although my proficiency is in its early stages, my commitment to improvement and mastery grows with each step in my academic journey.
+</p>
 
-<details>
-  <summary><h2>🚀 What Drives Me</h2></summary>
+<h2>🚀 What Drives Me</h2>
 
-  <p>
-    I draw motivation from the boundless possibilities and the transformative power of technology to create positive change. For me, software engineering is an avenue to solve real-world problems, construct innovative solutions, and engage in continuous learning.
-  </p>
-</details>
+<p>
+  I draw motivation from the boundless possibilities and the transformative power of technology to create positive change. For me, software engineering is an avenue to solve real-world problems, construct innovative solutions, and engage in continuous learning.
+</p>
 
-<details>
-  <summary><h2>🌐 My GitHub</h2></summary>
+<h2>🌐 My GitHub</h2>
 
-  <p>
-    Explore some of my coding adventures on my [GitHub profile](https://github.com/Ivyratermgwangqa) <span style="display:inline-block; vertical-align:middle;">![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;</span>.
-  </p>
-</details>
+<p>
+  Explore some of my coding adventures on my [GitHub profile](https://github.com/Ivyratermgwangqa). [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivyratermgwangqa)
+</p>
 
-<details>
-  <summary><h2>📫 Connect with Me</h2></summary>
+<h2>📫 Connect with Me</h2>
 
-  <p>
-    I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on [LinkedIn](https://www.linkedin.com/in/lerato-mgwangqa-941344238) <span style="display:inline-block; vertical-align:middle;">![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;</span> and let's spark insightful conversations or collaborate on exciting projects!
-  </p>
-</details>
+<p>
+  I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on [LinkedIn](https://www.linkedin.com/in/lerato-mgwangqa-941344238). [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lerato-mgwangqa-941344238)
+</p>
 
 <p align="center">
   Feel free to reach out, share your insights, or join me in exploring the wonders of coding!
 </p>
 
-<details>
-  <summary><h2>🚀 What's Next?</h2></summary>
+<h2>🚀 What's Next?</h2>
 
-  <p>
-    As I navigate my journey in software engineering, my aim is to create more innovative projects, contribute to open source, and develop the skills needed to make a positive impact in the tech industry. The road ahead is brimming with excitement, and I invite you to be a part of this unfolding journey.
-  </p>
-</details>
+<p>
+  As I navigate my journey in software engineering, my aim is to create more innovative projects, contribute to open source, and develop the skills needed to make a positive impact in the tech industry. The road ahead is brimming with excitement, and I invite you to be a part of this unfolding journey.
+</p>
 
 <p align="center">
   Thanks for dropping by and taking a glimpse into my world!
