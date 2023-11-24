@@ -10,7 +10,14 @@ I'm not just a student at Sol Plaatje University; I'm on a thrilling odyssey pur
 
 ## 💡 **My Skills**
 
-In the intricate dance of programming languages, I've got moves! From the rhythm of **![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white)** to the poetry of **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**, and orchestrating databases with the finesse of **![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)**, my skills are tuning up. While my proficiency is taking its baby steps, the commitment to mastery grows with each keystroke.
+In the intricate dance of programming languages, I've got moves! From the rhythm of **![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white)** to the poetry of **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**, and orchestrating databases with the finesse of **![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)**, my skills are tuning up. I'm also well-versed in:
+
+- **![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)**
+- **![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)**
+- **![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)**
+- **![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)**
+
+While my proficiency is taking its baby steps, the commitment to mastery grows with each keystroke.
 
 ## 🚀 **What Drives Me**
 
