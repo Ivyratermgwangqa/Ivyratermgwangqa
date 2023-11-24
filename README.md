@@ -36,7 +36,7 @@
   <summary><h2>🌐 My GitHub</h2></summary>
 
   <p>
-    Explore some of my coding adventures on my [GitHub profile](https://github.com/Ivyratermgwangqa). While my projects may be in their infancy, I am eagerly anticipating growth and development as a developer.
+    Explore some of my coding adventures on my ![GitHub profile](https://github.com/Ivyratermgwangqa) ![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white).
   </p>
 </details>
 
@@ -44,7 +44,7 @@
   <summary><h2>📫 Connect with Me</h2></summary>
 
   <p>
-    I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on [LinkedIn](https://www.linkedin.com/in/lerato-mgwangqa-941344238) and let's spark insightful conversations or collaborate on exciting projects!
+    I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on [LinkedIn](https://www.linkedin.com/in/lerato-mgwangqa-941344238) ![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) and let's spark insightful conversations or collaborate on exciting projects!
   </p>
 </details>
 
