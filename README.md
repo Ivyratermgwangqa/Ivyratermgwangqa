@@ -18,11 +18,11 @@ I draw motivation from the boundless possibilities and the transformative power 
 
 ## 🌐 My GitHub
 
-Explore some of my coding adventures on my [GitHub profile](https://github.com/Ivyratermgwangqa). [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivyratermgwangqa)
+Explore some of my coding adventures on my ![GitHub profile](https://github.com/Ivyratermgwangqa) [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivyratermgwangqa)
 
 ## 📫 Connect with Me
 
-I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on [LinkedIn](https://www.linkedin.com/in/lerato-mgwangqa-941344238). [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lerato-mgwangqa-941344238)
+I'm always eager to connect with fellow developers, students, and anyone who shares a passion for technology and coding. Find me on ![LinkedIn](https://www.linkedin.com/in/lerato-mgwangqa-941344238) [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lerato-mgwangqa-941344238)
 
 Feel free to reach out, share your insights, or join me in exploring the wonders of coding!
 
