@@ -11,7 +11,7 @@ Welcome to my coding universe! I'm Lerato Mgwangqa, an enthusiastic software eng
 
 ## 👩‍💻 **Who Am I?**
 
-I'm not just a student at Sol Plaatje University; I'm on a thrilling odyssey pursuing a BSc in Mathematical and Computer Sciences. My journey takes an extra exciting turn with my enrollment in the [ALX Software Engineering Program](https://tech.alxafrica.com/software-engineering-programme-johannesburg), where I'm not just learning but crafting the future of software development.
+I'm not just a student at Sol Plaatje University; I'm on a thrilling odyssey pursuing a BSc in Mathematical and Computer Sciences. My journey takes an extra exciting turn with my enrollment in the [Software Engineering Program](https://tech.alxafrica.com/software-engineering-programme-johannesburg), where I'm not just learning but crafting the future of software development.
 
 ## 💡 **My Skills**
 
