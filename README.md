@@ -7,7 +7,7 @@ Welcome to my coding universe! I'm **Lerato Mgwangqa**, a **Data Engineering Gra
 ---
 
 ## 👩‍💻 About Me
-- 🎓 **BSc Honours in Computer Science**, [Sol Plaatje University](https://www.spu.ac.za/) (2025)  
+- 🎓 **BSc Honours in Computer Science**, [Sol Plaatje University](https://www.spu.ac.za/) (2025) (On-going) 
 - 🎓 **BSc in Mathematical and Computer Sciences** graduate  
 - 🎓 **ALX Software Engineering Program** graduate (Jan 2023 – Jul 2024)  
 - 🏢 **Data Engineering Graduate Trainee**: ETL pipelines, data processing, and analytics  
@@ -23,31 +23,26 @@ Welcome to my coding universe! I'm **Lerato Mgwangqa**, a **Data Engineering Gra
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-Shell Scripting  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-Express.js | Tailwind CSS | Flask | Streamlit  
 
 ### Databases & Data Engineering
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-Redis | ETL Pipelines | Data Warehousing | Big Data Concepts  
 
 ### Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=for-the-badge)  
-NLTK | Graph Modeling | Data Visualization  
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-Serverless Architecture | Docker Basics | CI/CD Pipelines  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 
 ### Networking & Security
 TCP/IP | DNS | HTTP/HTTPS | Phishing Detection | Threat Intelligence  
@@ -60,14 +55,13 @@ Technical Writing | Time Management | Public Speaking | Collaboration | Analytic
 ## 🌟 Certifications & Achievements
 - **Full Stack Software Engineering**, ALX (Aug 2024)  
 - **Data Engineering Graduate Trainee Program**, Ongoing  
-- **Peer Mentor Certification**, Sol Plaatje University (2024)  
-- **AZ-900: Microsoft Azure Fundamentals** (In Progress)  
+- **Peer Mentor Certification**, Sol Plaatje University (2024)
 
 ---
 
 ## 📂 Projects & Research
 - **Explainable Phishing Detection & Authentication Risk Modeling** using Graph-Based Metadata & Threat Intelligence  
-- **Supervised ML Practical (Prac 2)**: Decision Tree, Random Forest, KNN, Naïve Bayes, Linear & Logistic Regression  
+- **Supervised ML **: Decision Tree, Random Forest, KNN, Naïve Bayes, Linear & Logistic Regression  
 - **Cloud & AI Experiments**: Deployed ML models on Azure, automated workflows, and analyzed performance  
 - Open-source contributions in Python ML libraries and AI tools  
 
