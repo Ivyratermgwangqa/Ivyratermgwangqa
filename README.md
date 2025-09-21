@@ -6,9 +6,8 @@ Welcome to my coding universe! I'm **Lerato Mgwangqa**, a **Data Engineering Gra
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 **BSc Honours in Computer Science**, [Sol Plaatje University](https://www.spu.ac.za/) (2025) (On-going) 
-- 🎓 **BSc in Mathematical and Computer Sciences** graduate  
+## 👩‍💻 About Me 
+- 🎓 **BSc in Mathematical and Computer Sciences** graduate, [Sol Plaatje University](https://www.spu.ac.za/) 
 - 🎓 **ALX Software Engineering Program** graduate (Jan 2023 – Jul 2024)  
 - 🏢 **Data Engineering Graduate Trainee**: ETL pipelines, data processing, and analytics  
 - 🧠 Skilled in **Machine Learning**, **Data Engineering**, **Graph-Based Modeling**, and **Cloud Computing (Azure)**  
